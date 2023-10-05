@@ -18,5 +18,5 @@
  This code is created completely by Harishankar Vinod (HVEPYC), and can be used under the MIT License as stated in this repository.
 
  References:
- Dataset Obtained from: https://grouplens.org/datasets/movielens/25m/
- Code-Specific references provided within thre ContentBasedFilteringRecommender.py Python file.
+ -Dataset Obtained from: https://grouplens.org/datasets/movielens/25m/
+ -Code-Specific references provided within thre ContentBasedFilteringRecommender.py Python file.
