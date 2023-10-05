@@ -4,7 +4,7 @@
 
  The code in this example uses the dataset from MovieLens.org (https://grouplens.org/datasets/movielens/25m/) as an example for Content Based Filtering. This Filtering method can also be adapted to other Datasets, as long as information regarding Genres/Class/Type of data are present for the given unit of Data.
 
- The Code can be tested by Downloading the MovieLens dataset from the above link, and placing the unzipped "ml-25m" folder next to the Python Script. The Folder should contain both movies.csv and ratings.csv files.
+ This code can be tested by Downloading the MovieLens dataset from the above link, and placing the unzipped "ml-25m" folder next to the Python Script. The Folder should contain both movies.csv and ratings.csv files.
 
  This code also includes a sample implementation where the user is asked to input their desired Genres, and the Program Generates the Top 10 movies which meet those criterias, arranged from highest to lowest Rating.
 
@@ -19,4 +19,4 @@
 
  References:
  - Dataset Obtained from: https://grouplens.org/datasets/movielens/25m/
- - Code-Specific references provided within thre ContentBasedFilteringRecommender.py Python file.
+ - Code-Specific references provided within the ContentBasedFilteringRecommender.py Python file.
