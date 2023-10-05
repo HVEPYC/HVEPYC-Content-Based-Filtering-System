@@ -11,7 +11,7 @@
  This code can be adapted to be implemented in various other scenarios, and will work on any kind of data, as long as the user is given choice to select between different types of the item which is being recommended, and the dataset contains uniform genre/class/type information, along with a rating for each item. The rating could be generated as an aggregate of multiple user ratings, as shown in the example given, or can be sourced from a dataset which provides predefined ratings for each item.
  
  This Filtering system has the following prerequisites:
- - Requires a Modern version of Python (Tested on Python 3.10)
+ - Requires a Modern version of Python (Tested on Python 3.10) with the Pandas Library installed.
  - Requires a significant amount of RAM, which can vary by Dataset (Above example requires a minimum of 6GB available RAM space (Or RAM + Swap Memory))
  - A Modern CPU, to achieve reasonable runtimes for the processing of Data.
 
