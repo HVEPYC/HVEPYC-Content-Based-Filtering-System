@@ -3,7 +3,7 @@
 #Required Imports
 import pandas
 
-#Importing the Dataset that contains the movies which the Movie Recommender recommends in the Collaborative Filtering Method
+#Importing the Dataset that contains the movies which the Movie Recommendation system will use.
 print("IMPORTS HAPPENING HERE #####################################")
 MoviesAndGenreDF = pandas.read_csv(".\\ml-25m\\movies.csv", usecols=["movieId","title","genres"], dtype={"movieId":"int32","title":"str","genres":"str"})
 
